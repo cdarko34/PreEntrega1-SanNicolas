@@ -10,8 +10,8 @@ const NavBar = ({background}) =>{
             <header className = {`head background--${background}`}>
                 <div className="header-container">
 
-                    <div className="menu-button" size="lg" color="white">
-                        <FontAwesomeIcon icon= {faBars} sixze="lg" color="white"/>
+                    <div className="menu-button" size="lg" color="#F59D8F">
+                        <FontAwesomeIcon icon= {faBars} sixze="lg" color="#F59D8F"/>
                         <small>Menú</small>
                     </div>
 
