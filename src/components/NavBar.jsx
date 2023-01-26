@@ -38,7 +38,7 @@ const NavBar = ({background}) =>{
                     </div>
 
                     <div>
-                        {CartWidget}
+                        <CartWidget />
                     </div>
 
 
